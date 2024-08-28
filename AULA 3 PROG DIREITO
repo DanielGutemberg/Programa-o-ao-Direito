@@ -18,6 +18,34 @@ RESPOSTA B2-
 Quando as informações pessoais não são protegidas adequadamente, indivíduos não autorizados podem obter acesso a elas. Isso pode resultar em roubo de identidade, fraude financeira e outros tipos de crimes cibernéticos.Deve ser tratada considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. A LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente públicos pelo titular.
 
 
+AULA 4 - DANIEL GUTEMBERG 
+PERGUNTA 1-
+1 – Explique as diferenças entre 3 linguagens de programação:
+Resumo das Diferenças;
+.Python é conhecida por sua simplicidade e facilidade de uso, ideal para desenvolvimento rápido e aplicações variadas, mas com menor desempenho.
+
+.Java oferece uma boa combinação de portabilidade e desempenho com uma sintaxe mais rígida e é amplamente usada em ambientes corporativos e para desenvolvimento Android.
+
+.C++ proporciona alto desempenho e controle sobre recursos de hardware, mas tem uma curva de aprendizado mais acentuada e requer gerenciamento manual de memória.
+Cada linguagem tem suas próprias forças e é adequada para diferentes tipos de projetos e objetivos. A escolha entre elas depende das necessidades específicas do projeto e das preferências da equipe de desenvolvimento.
+
+a. Tente fazer um código mínimo em cada uma delas
+PYTHON- print("Olá, Mundo!")
+
+JAVA - public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+
+C++- #include <iostream>
+
+int main() {
+    std::cout << "Olá, Mundo!" << std::endl;
+    return 0;
+
+b. Tente executar o seu código
+
+
+
 
 
 
